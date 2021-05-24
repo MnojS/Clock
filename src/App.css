@@ -26,6 +26,7 @@ body{
   --roation: 0;
   position: absolute;
   width: 100%;
+  color: wheat;
   height: 100%;
   text-align: center;
   transform: rotate(var(--roation));

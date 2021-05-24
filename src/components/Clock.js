@@ -3,8 +3,6 @@ import React from 'react'
 function Clock({hourRatio, minuteRatio, secondRatio}) {
 
   console.log(secondRatio)
-
-
     return (
         
       <div className="clock">
